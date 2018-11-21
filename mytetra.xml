@@ -9,5 +9,16 @@
     <record id="154280421829yru01o6b" name="От оно че" author="" url="" tags="" ctime="20181121154338" dir="15428042182dpe97mrsu" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="15428053053ecric2iup" name="Программирование">
+   <node crypt="" id="1542805316pl9pcqox8m" name="JS"/>
+   <node crypt="" id="1542805333bi2rzgmcrh" name="Python"/>
+  </node>
+  <node crypt="" id="15428053517yvks8mnxh" name="ArcGIS">
+   <node crypt="" id="1542805363ddpit0wrs9" name="Python"/>
+   <node crypt="" id="15428054078q4rvf402u" name="JS API for ArcGIS"/>
+  </node>
+  <node crypt="" id="15428054214d3p8laz5d" name="NextGIS">
+   <node crypt="" id="15428054567tod0bg0hx" name="NextGIS Web API"/>
+  </node>
  </content>
 </root>
