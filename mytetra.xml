@@ -20,5 +20,12 @@
   <node crypt="" id="15428054214d3p8laz5d" name="NextGIS">
    <node crypt="" id="15428054567tod0bg0hx" name="NextGIS Web API"/>
   </node>
+  <node crypt="1" icon="" id="1542806924n31bjbzn9w" name="UkM1U0lNUAOzj1NwiOcEalWwy67qbaWg7KFYEIuztYnDi7BHDHO2ArCNk9gxc8IO">
+   <node crypt="1" icon="" id="1542806984sjoyhuxrzj" name="UkM1U0lNUAM7SiXtO0xW8mQyPpPnqtYGy69ozwSQjlfuDtgxGesswk6BbeWkl1NWGZkAKHnZ2Ww=">
+    <recordtable>
+     <record id="15428070949fiwc9nwwo" name="UkM1U0lNUAPXqSaD4ZZ5exFb7V8RynThecoSkw2NpwX/xavJeykcZO+H9O2zjLDoR41fdjTa0R/6T/6H0LDCeic+A66MZOAD" author="" url="" tags="UkM1U0lNUAMD7HEWuoDIFZt9CMvlrhE4YfGpZ++5F7YO1ZUbYjxC87EilBm4isuQNmoWHHVQ8K8FzPIbCyGsSQ==" ctime="20181121163134" dir="15428070948qyb3if9ly" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+  </node>
  </content>
 </root>
